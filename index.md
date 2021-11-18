@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/ann1004/mid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<meta charset="utf-8">
+	<title>花磚博物館</title>
+	<style>
+   body{
+    background-color:  #00af9a;
+   }
+   h1{
+    color: #fdfffe;
+    font-size:3em;
+   }
+   h2{
+    color: #0c634e;
+    font-size:1.5em;
+   }
+   a{
+    color: #0c634e;
+    font-size:1em;
+   }
+   pre{
+    color: #fdfffe;
+    font-size:1.5em;
+   }
+  </style>
+</head>
+ <center>
+<h1>花磚博物館</h1>
+<img src="橫幅.jpg"><br>
+<!--img width="954" height="536" -->
+<h2>||<a href="#theme">主題說明</a>||<a href="#team">策展團隊</a>||</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 id="theme">主題說明</h2>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<pre>「每棟花磚老屋都承載一個美麗的台灣故事，我們被迫在它被拆除前，
+    親手支解它卸下花磚，然後望著百年歷史消失在這片土地上」
 
-```markdown
-Syntax highlighted code block
+    早期台灣在日治時代不少有錢人家在蓋房子時，會在房子外觀嵌上花磚，
+   而且每種花紋還都代表著例如家族平安、官運亨通、子孫滿堂⋯等不同的意涵。
+   來隨著時代變遷這些花磚漸漸不被重視，甚至直接拆除丟棄。
+   花磚博物館為了保存台灣美好的文化，便親自搶救並修復這些花磚，讓這些美麗的台灣故事得以延續。</pre>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<h2 id="team">策展團隊</h2>
 
-1. Numbered
-2. List
+<img src="梁淑俞.jpg"alt="網頁設計的logo"></img>
+<pre>日文創三甲 梁淑兪 
+    參觀完花磚博物館後，深受感動    
+希望可以透過花磚博物館的線上展覽，讓參展的人對於台灣文化更加熱愛</pre>
 
-**Bold** and _Italic_ and `Code` text
+<img src="小華.jpg"alt="網頁設計的logo"></img>
+<pre>日文創三甲 小華
+熱愛歷史的小華，希望透過這次的展覽更深入研究台灣歷史</pre>
 
-[Link](url) and ![Image](src)
-```
+<img src="小明.jpg"alt="網頁設計的logo"></img>
+<pre>日文創三甲 小明
+想成為考古學家的小明，期望自己也能投入搶救花磚的行列</pre>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<br>
+<a href="into exhibition.htm"target="_blank">展覽開始</a>
 
-### Jekyll Themes
+</br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ann1004/mid/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</center>
+</body>
+</html>
